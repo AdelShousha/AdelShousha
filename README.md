@@ -8,7 +8,7 @@
 </h3>
 
 
-- 🧠 I'm an Artificial Intelligence Engineering student at Mansoura University.
+- 🧠 I'm  an Artificial Intelligence Engineering student at Mansoura University.
 
 - 🧭 I'm constantly trying to learn new things.
 
